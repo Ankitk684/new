@@ -1,0 +1,1 @@
+console.log("This shows the procedure of connecting JS file with a html file");
